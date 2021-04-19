@@ -1,5 +1,5 @@
 ## Hey there! My name is Steve Halliwell
-You've found the github account I use for SAE Creative Media Institute work. [SteveHalliwell](https://github.com/stevehalliwell/stevehalliwell) is my main, personal github account. Unless you are a student adding me to one of your projects, you probably don't mean to be here.
+You've found the github account I use for SAE Creative Media Institute work. [SteveHalliwell](https://github.com/stevehalliwell/) is my main, personal github account. Unless you are a student adding me to one of your projects, you probably don't mean to be here.
 
 <!--
 **stevehalliwell/stevehalliwell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
